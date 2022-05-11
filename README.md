@@ -7,7 +7,8 @@
     <a href="https://github.com/rafaballerini">
    <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=juliammartinss&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliammartinss&layout=compact&langs_count=7&theme=synthwave"/>
-  </div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=file:///C:/Users/55199/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/SleepySleepyCatGIF.gif"> 
+  </div> 
     
     
   <img align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
