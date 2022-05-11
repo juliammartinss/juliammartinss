@@ -1,11 +1,4 @@
-v2 pct Gelatina 1 kg sabor abacaxi e Uva
-1 cx Ketchup heinz 
-1 balde azeitona da menor olea com caroço 
-2 pct chococandy pastilhas confeitadas
-1 pct granulado macio dori de um kg
-1 pct sococo flocos de um quilo
-2 pct amido de milho amafil de um kg
-1 pct linguiça Toscana aurora dename: Generate Datas
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
